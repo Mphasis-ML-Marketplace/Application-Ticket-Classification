@@ -1,3 +1,4 @@
 ID,Reported_Day,prod_cat,Country,Priority,Impact,Incident_Type,Reported_Source,Predicted Group
-INC000014022289 ,3,Software_Infrastructure_IT Service Management_Request Center,United States,Low,4-Minor/Localized,User Service Request,Phone,Remote Triage Support-National Service Desk
-INC000014020251 ,3,Enterprise Applications_Customer_Customer/Account Servicing_Client Central (Including Supervisor Central),United States,Low,4-Minor/Localized,User Service Restoration,Phone,Remote Triage Support-National Service Desk
+INC000014022289,3,prod_cat -1,Country-1,Low,4-Minor,Incident_Type-1,Phone,Target-7
+INC000014060316,2,prod_cat -1,Country-1,Low,1-Minor,Incident_Type-2,Phone,Target-4
+INC000013880496,3,prod_cat -2,Country-1,Low,2-Minor,Incident_Type-1,Phone,Target-4
